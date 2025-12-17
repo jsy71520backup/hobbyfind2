@@ -30,3 +30,4 @@ COMMENT ON TABLE users IS 'User accounts for authentication';
 COMMENT ON COLUMN users.username IS 'Unique username for login';
 COMMENT ON COLUMN users.password_hash IS 'Hashed password using bcrypt';
 
+

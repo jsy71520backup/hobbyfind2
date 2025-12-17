@@ -25,3 +25,4 @@ COMMENT ON TABLE bookmarks IS 'User bookmarks for hobbies';
 COMMENT ON COLUMN bookmarks.user_id IS 'Reference to users table';
 COMMENT ON COLUMN bookmarks.hobby_id IS 'Hobby identifier from hobbies constant';
 
+
